@@ -1,0 +1,166 @@
+==> Step 1: Finding optimal regularization parameter...
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  22498.2902
+-- Iteration 100 - negative log likelihood  20132.7688
+-- Iteration 150 - negative log likelihood  19074.1782
+-- Iteration 200 - negative log likelihood  18420.1137
+-- Iteration 250 - negative log likelihood  17962.7355
+-- Iteration 300 - negative log likelihood  17618.8274
+-- Iteration 350 - negative log likelihood  17347.3245
+-- Iteration 400 - negative log likelihood  17125.3589
+-- Iteration 450 - negative log likelihood  16939.0725
+-- Iteration 500 - negative log likelihood  16779.5179
+-- Time elapsed for running gradient descent: 44.37 seconds
+-- Accuracy is 0.9221 for lambda = 0.01
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  22502.8732
+-- Iteration 100 - negative log likelihood  20138.7176
+-- Iteration 150 - negative log likelihood  19081.3517
+-- Iteration 200 - negative log likelihood  18428.3600
+-- Iteration 250 - negative log likelihood  17971.9312
+-- Iteration 300 - negative log likelihood  17628.8833
+-- Iteration 350 - negative log likelihood  17358.1724
+-- Iteration 400 - negative log likelihood  17136.9449
+-- Iteration 450 - negative log likelihood  16951.3528
+-- Iteration 500 - negative log likelihood  16792.4560
+-- Time elapsed for running gradient descent: 44.92 seconds
+-- Accuracy is 0.9221 for lambda = 0.10
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  22523.2392
+-- Iteration 100 - negative log likelihood  20165.1426
+-- Iteration 150 - negative log likelihood  19113.2021
+-- Iteration 200 - negative log likelihood  18464.9626
+-- Iteration 250 - negative log likelihood  18012.7369
+-- Iteration 300 - negative log likelihood  17673.4935
+-- Iteration 350 - negative log likelihood  17406.2827
+-- Iteration 400 - negative log likelihood  17188.3147
+-- Iteration 450 - negative log likelihood  17005.7862
+-- Iteration 500 - negative log likelihood  16849.7900
+-- Time elapsed for running gradient descent: 44.97 seconds
+-- Accuracy is 0.9221 for lambda = 0.50
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  22548.6899
+-- Iteration 100 - negative log likelihood  20198.1415
+-- Iteration 150 - negative log likelihood  19152.9417
+-- Iteration 200 - negative log likelihood  18510.6073
+-- Iteration 250 - negative log likelihood  18063.5966
+-- Iteration 300 - negative log likelihood  17729.0666
+-- Iteration 350 - negative log likelihood  17466.1861
+-- Iteration 400 - negative log likelihood  17252.2446
+-- Iteration 450 - negative log likelihood  17073.4952
+-- Iteration 500 - negative log likelihood  16921.0723
+-- Time elapsed for running gradient descent: 35.97 seconds
+-- Accuracy is 0.9220 for lambda = 1.00
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  23005.6340
+-- Iteration 100 - negative log likelihood  20787.0261
+-- Iteration 150 - negative log likelihood  19854.6030
+-- Iteration 200 - negative log likelihood  19312.1599
+-- Iteration 250 - negative log likelihood  18952.0004
+-- Iteration 300 - negative log likelihood  18694.7752
+-- Iteration 350 - negative log likelihood  18501.8541
+-- Iteration 400 - negative log likelihood  18352.0125
+-- Iteration 450 - negative log likelihood  18232.5582
+-- Iteration 500 - negative log likelihood  18135.4029
+-- Time elapsed for running gradient descent: 33.66 seconds
+-- Accuracy is 0.9221 for lambda = 10.00
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  25022.0136
+-- Iteration 100 - negative log likelihood  23455.9916
+-- Iteration 150 - negative log likelihood  22696.5373
+-- Iteration 200 - negative log likelihood  22473.2174
+-- Iteration 250 - negative log likelihood  22372.8437
+-- Iteration 300 - negative log likelihood  22329.8237
+-- Iteration 350 - negative log likelihood  22316.7414
+-- Iteration 400 - negative log likelihood  22319.9960
+-- Iteration 450 - negative log likelihood  22332.3015
+-- Iteration 500 - negative log likelihood  22349.5392
+-- Time elapsed for running gradient descent: 34.45 seconds
+-- Accuracy is 0.9204 for lambda = 50.00
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  27567.2117
+-- Iteration 100 - negative log likelihood  26397.3848
+-- Iteration 150 - negative log likelihood  25977.7161
+-- Iteration 200 - negative log likelihood  25797.0749
+-- Iteration 250 - negative log likelihood  25776.7473
+-- Iteration 300 - negative log likelihood  25821.9679
+-- Iteration 350 - negative log likelihood  25876.8902
+-- Iteration 400 - negative log likelihood  25928.0833
+-- Iteration 450 - negative log likelihood  25973.4769
+-- Iteration 500 - negative log likelihood  26012.9721
+-- Time elapsed for running gradient descent: 34.88 seconds
+-- Accuracy is 0.9191 for lambda = 100.00
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  32995.2904
+-- Iteration 100 - negative log likelihood  32659.8978
+-- Iteration 150 - negative log likelihood  32531.6174
+-- Iteration 200 - negative log likelihood  32450.8015
+-- Iteration 250 - negative log likelihood  32410.7265
+-- Iteration 300 - negative log likelihood  32404.8881
+-- Iteration 350 - negative log likelihood  32428.2569
+-- Iteration 400 - negative log likelihood  32470.8874
+-- Iteration 450 - negative log likelihood  32518.3967
+-- Iteration 500 - negative log likelihood  32557.1261
+-- Time elapsed for running gradient descent: 34.31 seconds
+-- Accuracy is 0.9071 for lambda = 200.00
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  49477.5714
+-- Iteration 100 - negative log likelihood  49153.4014
+-- Iteration 150 - negative log likelihood  49261.1278
+-- Iteration 200 - negative log likelihood  49280.3399
+-- Iteration 250 - negative log likelihood  49299.0346
+-- Iteration 300 - negative log likelihood  49314.9468
+-- Iteration 350 - negative log likelihood  49321.5028
+-- Iteration 400 - negative log likelihood  49324.8655
+-- Iteration 450 - negative log likelihood  49326.9286
+-- Iteration 500 - negative log likelihood  49327.9820
+-- Time elapsed for running gradient descent: 34.39 seconds
+-- Accuracy is 0.8575 for lambda = 500.00
+
+==> Running gradient descent...
+-- Iteration 50 - negative log likelihood  68941.3363
+-- Iteration 100 - negative log likelihood  69147.4186
+-- Iteration 150 - negative log likelihood  68933.8354
+-- Iteration 200 - negative log likelihood  68179.9928
+-- Iteration 250 - negative log likelihood  69072.6269
+-- Iteration 300 - negative log likelihood  69869.0004
+-- Iteration 350 - negative log likelihood  68810.7251
+-- Iteration 400 - negative log likelihood  67956.2604
+-- Iteration 450 - negative log likelihood  70227.1391
+-- Iteration 500 - negative log likelihood  69502.8560
+-- Time elapsed for running gradient descent: 34.01 seconds
+-- Accuracy is 0.8021 for lambda = 1000.00
+==> Printing accuracy vs lambda...
+==> Plotting completed.
+
+-- Optimal regularization parameter is 0.01
+
+==> Running gradient descent...
+-- Iteration 100 - negative log likelihood  20132.7688
+-- Iteration 200 - negative log likelihood  18420.1137
+-- Iteration 300 - negative log likelihood  17618.8274
+-- Iteration 400 - negative log likelihood  17125.3589
+-- Iteration 500 - negative log likelihood  16779.5179
+-- Iteration 600 - negative log likelihood  16518.1123
+-- Iteration 700 - negative log likelihood  16310.5114
+-- Iteration 800 - negative log likelihood  16139.7897
+-- Iteration 900 - negative log likelihood  15995.7067
+-- Iteration 1000 - negative log likelihood  15871.6418
+-- Iteration 1100 - negative log likelihood  15763.0929
+-- Iteration 1200 - negative log likelihood  15666.8749
+-- Iteration 1300 - negative log likelihood  15580.6604
+-- Iteration 1400 - negative log likelihood  15502.7035
+-- Iteration 1500 - negative log likelihood  15431.6646
+-- Time elapsed for running gradient descent: 108.08 seconds
+
+==> Step 2: Plotting convergence plot...
+==> Plotting completed.
